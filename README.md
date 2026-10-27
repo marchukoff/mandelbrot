@@ -8,4 +8,8 @@ from "Programming Rust" (chapter on concurrency).
 val, error или val comma ok.
 Также интересно было bands.into_iter().enumerate() переписать.
 
+```console
+$ go run . mandel.png 1000x750 -1.20,0.35 -1,0.20
+```
+
 ![IMG](mandel.png)
